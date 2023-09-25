@@ -142,7 +142,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/christian-jaimes
+[linkedin-url]: https://linkedin.com/in/christianjaimes
 
 [python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=4584B6
 [python-url]: https://www.python.org/
