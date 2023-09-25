@@ -10,7 +10,7 @@
 <div align="center">
 <br />
   <a href="https://github.com/christian-jaimes/pokemon-data-scraping">
-    <img src="images/project-logo.png" alt="Logo">
+    <img src="image/project-logo.png" alt="Logo">
   </a>
 
   <h1 align="center">Pokemon data scraping</h1>
@@ -42,7 +42,7 @@ The project offers two main data collection modes:
 The gathered data is structured into five tables which are interconnected:
 <div align="center">
 <br />
-<img src="docs/data-model/Pokemon data model.png" alt="pokemon data model">
+<img src="docs/model/Pokemon data model.png" alt="pokemon data model">
 </div>
 
 - **Pokemon Details:** Includes essential information such as Pokemon ID, name, description, image, species, height, weight, types, abilities, EV yield, catch rate, base experience, growth rate, gender distribution, generation, and name etymology.
@@ -52,7 +52,7 @@ The gathered data is structured into five tables which are interconnected:
 - **Pokemon region coordinates:** This is a manual dataset made with [cbistudio](https://cbistudio.interworks.com/) to calculate the X and Y Coordinates to plot the regions into a custom made map.  
 <div align="center">
 <br />
-<img src="docs/data-model/region-map.png" alt="Region map">
+<img src="docs/region-map.png" alt="Region map">
 </div>
 
 ### Why This Project?
