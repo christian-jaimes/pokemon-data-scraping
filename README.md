@@ -51,8 +51,7 @@ The gathered data is structured into five tables which are interconnected:
 - **Pokemon region details:** Contains detailed information on the regions like, professors, villians and starter pokemons.
 - **Pokemon region coordinates:** This is a manual dataset made with [cbistudio](https://cbistudio.interworks.com/) to calculate the X and Y Coordinates to plot the regions into a custom made map.  
 <div align="center">
-<br />
-<img src="docs/region-map.png" alt="Region map">
+<img src="image/region-map.png" alt="Region map">
 </div>
 
 ### Why This Project?
