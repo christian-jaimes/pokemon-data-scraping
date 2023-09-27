@@ -137,9 +137,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/christian-jaimes/pokemon-data-scraping/issues
 
 [license-shield]: https://img.shields.io/github/license/christian-jaimes/pokemon-data-scraping.svg?style=for-the-badge
-[license-url]: https://github.com/christian-jaimes/pokemon-data-scraping/blob/master/LICENSE.txt
-
-
+[license-url]: https://github.com/christian-jaimes/pokemon-data-scraping/blob/main/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/christianjaimes
